@@ -5,6 +5,10 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
